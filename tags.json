@@ -395,7 +395,8 @@
         "align-item-left": "align left,alignment,左对齐,对齐",
         "align-item-top": "align top,alignment,顶部对齐,对齐",
         "align-item-right": "align right,alignment,右对齐,对齐",
-        "align-item-bottom": "align bottom,alignment,底部对齐,对齐"
+        "align-item-bottom": "align bottom,alignment,底部对齐,对齐",
+        "bezier": "outline,vector,path"
     },
     "Development": {
         "bug": "error,issue,defect,problem,glitch,fault,anomaly,regression,tracker,triage,fix,patch,漏洞,缺陷,错误,问题,故障,异常,回归,跟踪,分诊,修复,补丁",
@@ -894,7 +895,8 @@
         "bread": "toast,loaf,bakery,sandwich,whole wheat,baguette,bagel,面包,吐司,烘焙,三明治,全麦,法棍,贝果",
         "drinks": "beverage,coffee,tea,soda,juice,soft drink,refreshment,cold drink,iced drink,饮料,咖啡,茶,汽水,果汁,软饮,清凉饮品,冷饮,冰饮",
         "drinks-2": "beverage,juice,smoothie,soda,soft drink,refreshment,cold drink,iced drink,饮料,果汁,奶昔,汽水,软饮,冷饮,冰饮",
-        "bowl": "soup,ramen,noodle,cereal,porridge,stew,dish,碗,汤,拉面,面条,麦片,粥,炖汤,菜品"
+        "bowl": "soup,ramen,noodle,cereal,porridge,stew,dish,碗,汤,拉面,面条,麦片,粥,炖汤,菜品",
+        "cookie": "fortune,dessert"
     },
     "Health & Medical": {
         "heart": "like,love,favorite,affection,care,wellbeing,cardio,cardiac,healthcare,心,喜欢,爱,收藏,关爱,健康,心脏,心血管",
@@ -1078,7 +1080,8 @@
         "youtube": "video,streaming,creator,油管,优兔,视频,流媒体,创作者",
         "yuque": "wiki,knowledge base,document,阿里,语雀,文档,知识库,协作",
         "zcool": "design,community,portfolio,站酷,设计,社区,作品集",
-        "zhihu": "q&a,community,问答,社区,知乎"
+        "zhihu": "q&a,community,问答,社区,知乎",
+        "deviantart": "art,community,portfolio"
     },
     "Map": {
         "map-pin": "marker,place,poi,gps,coordinate,address,location marker,drop pin,定位,地图,位置,标记,标注,坐标,兴趣点,地址,导航,地点标记",
@@ -1313,7 +1316,8 @@
         "aspect-ratio": "width height ratio,crop,resize,宽高比,比例,裁剪,横纵比",
         "picture-in-picture": "pip,画中画,小窗,小窗播放,浮窗",
         "picture-in-picture-2": "pip,画中画,小窗,小窗播放,浮窗",
-        "picture-in-picture-exit": "exit pip,退出画中画,退出小窗,关闭小窗"
+        "picture-in-picture-exit": "exit pip,退出画中画,退出小窗,关闭小窗",
+        "piano": "piano,midi,keyboard"
     },
     "System": {
         "apps": "app grid,launcher,tiles,application,workspace,应用,应用抽屉,启动器,九宫格,网格,面板,工作区",
@@ -1678,6 +1682,10 @@
         "golf-ball": "sports,高尔夫球",
         "stairs": "stages,levels,楼梯,步行梯,台阶",
         "book-shelf": "books,library,categories,bookshelf,书架,书籍,图书馆,分类",
-        "target": "aim,goal,objective,bullseye,目标,瞄准,靶心"
+        "target": "aim,goal,objective,bullseye,目标,瞄准,靶心",
+        "paw": "animal,foot,print",
+        "dragon": "monster,animal,wyvern",
+        "cat": "animal,face,kitten,kitty,pet",
+        "y": "letter,coordinate,component"
     }
 }
