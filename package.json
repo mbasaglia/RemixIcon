@@ -18,6 +18,9 @@
     "README_CN.md",
     "README.md"
   ],
+  "scripts": {
+    "build": "fantasticon"
+  },
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
@@ -27,5 +30,8 @@
   "contributors": [
     "Wendy Gao <wendygaoyuan@163.com>",
     "Jimmy Cheung <jimmy@remixdesign.cn>"
-  ]
+  ],
+  "devDependencies": {
+    "fantasticon": "^3.0.0"
+  }
 }
